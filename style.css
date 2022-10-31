@@ -27,3 +27,23 @@ p {
 .blog-post {
     border-bottom: 1px dotted #ccc;
 }
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.links {
+    font-family:'Times New Roman', Times, serif
+}
+
+a:visited {
+    border-color: black;
+}
+
+p:first-line {
+    color: black;
+}
+
+.blog-post-second {
+    border-bottom: 1px dotted #242424;
+}
