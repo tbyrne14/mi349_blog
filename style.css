@@ -53,4 +53,7 @@ p:first-line {
     margin-right: 10px;
     text-size-adjust: 20px;
     font-size: larger;
+    position: absolute;
+    right: 20px;
+    top: 20px;
 }
