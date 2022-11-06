@@ -54,6 +54,6 @@ p:first-line {
     text-size-adjust: 20px;
     font-size: larger;
     position: absolute;
-    right: 50px;
-    bottom: 20px;
+    right: 3000px;
+    bottom: 100px;
 }
