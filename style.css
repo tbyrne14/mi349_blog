@@ -47,3 +47,8 @@ p:first-line {
 .blog-post-second {
     border-bottom: 1px dotted #242424;
 }
+
+.img-container {
+    float: left;
+    margin-right: 10px;
+}
