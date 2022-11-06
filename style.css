@@ -54,3 +54,17 @@ p:first-line {
     text-size-adjust: 20px;
     font-size: larger;
 }
+
+.show-reviews {
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+    background: rgb(224, 120, 118);
+    justify-content: space-evenly;
+}
+
+.show-reviews-2 {
+    padding: 20px;
+    margin: 15px;
+    background: rgb(177, 112, 169);
+}
