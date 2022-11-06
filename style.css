@@ -68,3 +68,15 @@ p:first-line {
     margin: 15px;
     background: rgb(177,112,169);
 }  
+
+.form-flex {
+    display:flex;
+    flex-direction: column;
+    background: rgb(224,120,118)
+}
+
+.form-flex-2 {
+    margin: 20px;
+    padding: 20px;
+    background: rgb(177,112,169)
+}
