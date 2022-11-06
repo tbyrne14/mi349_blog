@@ -52,4 +52,5 @@ p:first-line {
     float: left;
     margin-right: 10px;
     text-size-adjust: 20px;
+    font-size: medium;
 }
