@@ -80,3 +80,15 @@ p:first-line {
     padding: 20px;
     background: rgb(177,112,169)
 }
+
+.table {
+    border: 1px solid;
+    margin: 5px;
+    padding: 20px;
+    width: 12%;
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
